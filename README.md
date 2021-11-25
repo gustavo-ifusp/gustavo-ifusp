@@ -1,10 +1,10 @@
 Olá, estes são meus repositórios organizados. 
 
-Sou Gustavo, moro em São Paulo - São Paulo - Brasil, e curso Bacharelado em Física na universidade de São Paulo com projeção de titulação no final de 2022.
+Sou Gustavo, moro em São Paulo, e curso Bacharelado em Física na Universidade de São Paulo com projeção de titulação no final de 2022.
 
-Nesses repositórios, constam notebook's em Python de análise e automação de processos para o Moodle da USP(edisciplinas), Alumni USP, projetos do meu curso com fins educativo e projetos da Prefeitura de São paulo com fins de contemplação para  o SP360, que é um projeto de CTD (Coordenadoria de Transformação Digital) da Secretaria Municipal de Inovação e tecnologia, no qual sou Analista de Dados comissionado para alimentar paineis que viabilizam politicas de datadriven. 
+Nesses repositórios, consta os notebook's em Python de análises e automações de processos. Destes, esta organizado nos projetos para o Moodle da USP (https://edisciplinas.usp.br/), Alumni USP (http://www.alumni.usp.br/), projetos do meu curso com fins educativo e institucional, e projetos da Prefeitura de São paulo - Secretaria de Inovação e Tecnologia, com fins de contemplação para  o SP360, que é um projeto da CTD - Coordenadoria de Transformação Digital, no qual estou adquirindo experiência como Analista de Dados comissionado para alimentar paineis que viabilizam politicas de datadriven, modelando dados, realizando scraping de dados e criando automação em ETL com Dags no AIRFLOW. 
 
-Sou apaixonado pela linguagem Python, por Física Computacional, Estatística e probabilidade e principalmente solução de problemas. Gosto de conseguir automatizar processos, organizar dados, resolver problemas de BigData, cálculo, astrofísica e física em geral. Estou em contante aprendizado. Toda sujestão e critica são sempre bem vindas.
+Sou apaixonado pela linguagem Python, por Física Computacional, Estatística, probabilidade e principalmente solução de problemas. Gosto de conseguir automatizar processos, organiza-los e conectálos, resolver problemas de BigData, cálculo, astrofísica e física em geral. Estou em contante aprendizado. Sua sujestão e critica será bem vinda.
 <br>
 Gustavo de Andrade<br>
 Analista de Dados<br>
