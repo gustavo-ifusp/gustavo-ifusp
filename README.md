@@ -1,4 +1,4 @@
-Olá, estes são meus repositórios organizados! Todas as apresentações e dados são autortizados ou públicos em alguma base de dados. 
+Olá, estes são meus repositórios organizados! Todas as apresentações e dados são autorizados ou públicos em alguma base de dados. 
 
 Sou Gustavo, sou entusiasta por ciências de dados, curso Bacharelado NA USP noturno com projeção de titulação no final de 2022.
 
