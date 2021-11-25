@@ -9,3 +9,4 @@ Sou apaixonado pela linguagem Python, por Física Computacional, Estatística e 
 Contato: gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br
 Gustavo de Andrade
 Analista de Dados
+https://www.linkedin.com/in/gustavo-de-andrade-81030483/
