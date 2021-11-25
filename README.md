@@ -6,11 +6,12 @@ Nesses repositórios, consta alguns dos meus notebook's em Python de análises e
 
 Sou apaixonado pela linguagem Python, por Física Computacional, Estatística, probabilidade e principalmente solução de problemas. Gosto de conseguir automatizar processos, organiza-los e conectálos, resolver problemas de BigData, cálculo, astrofísica e física em geral. Estou em contante aprendizado. Sua sujestão e critica será bem vinda.
 <br>
+Utilizo sempre a Liguagem Python, no qual busco aprofundamento. Utiliei em meus notebooks e nas dag's as seguintes bibliotecas:
+
+Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy e Airflow.
+
+<br>
 Gustavo de Andrade<br>
 Analista de Dados<br>
 gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
 https://www.linkedin.com/in/gustavo-de-andrade-81030483/
-
-Utilizo sempre a Liguagem Python, no qual busco aprofundamento. Utiliei em meus notebooks e nas dag's as seguintes bibliotecas:
-
-Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy e Airflow.
