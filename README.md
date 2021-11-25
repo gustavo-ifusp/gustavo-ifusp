@@ -6,7 +6,7 @@ Nesses repositórios, constam notebook's em Python de análise e automação de 
 
 Sou apaixonado pela linguagem Python, por Física Computacional, Estatística e probabilidade e principalmente solução de problemas. Gosto de conseguir automatizar processos, organizar dados, resolver problemas de BigData, cálculo, astrofísica e física em geral. Estou em contante aprendizado. Toda sujestão e critica são sempre bem vindas.
 
-Contato: gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br
-Gustavo de Andrade
+Contato: gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
+Gustavo de Andrade<br>
 Analista de Dados
 https://www.linkedin.com/in/gustavo-de-andrade-81030483/
