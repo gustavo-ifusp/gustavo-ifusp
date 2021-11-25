@@ -10,3 +10,7 @@ Gustavo de Andrade<br>
 Analista de Dados<br>
 gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
 https://www.linkedin.com/in/gustavo-de-andrade-81030483/
+
+Utilizo sempre a Liguagem Python, no qual busco aprofundamento. Utiliei em meus notebooks e dag's as bibliotecas:
+
+Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, datetime, date, timedelta, relativedelta, os, SqlAlchemy e airflow.
