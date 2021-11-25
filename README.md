@@ -15,3 +15,6 @@ Gustavo de Andrade<br>
 Analista de Dados<br>
 gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
 https://www.linkedin.com/in/gustavo-de-andrade-81030483/
+
+Relatório IC em Análise de Dados do Moodle da USP: https://docs.google.com/document/d/15m_9bUSCSqZkHtfJzJh25Pkfp1ELdMDIEvZWKuGB2dk/edit?usp=sharing
+Relatório Alumni: https://docs.google.com/document/d/1F-FrZD3fP5aAi_xJ8w6jZ3plBB3BzNxCq_f__pBbEGQ/edit?usp=sharing
