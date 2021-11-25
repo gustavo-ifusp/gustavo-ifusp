@@ -1,4 +1,4 @@
-Olá, estes são meus repositórios organizados. 
+Olá, estes são meus repositórios organizados! Todas as apresentações e dados são autortizados ou públicos em alguma base de dados. 
 
 Sou Gustavo, moro em São Paulo, e curso Bacharelado em Física na Universidade de São Paulo com projeção de titulação no final de 2022.
 
