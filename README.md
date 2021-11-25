@@ -11,6 +11,6 @@ Analista de Dados<br>
 gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
 https://www.linkedin.com/in/gustavo-de-andrade-81030483/
 
-Utilizo sempre a Liguagem Python, no qual busco aprofundamento. Utiliei em meus notebooks e dag's as bibliotecas:
+Utilizo sempre a Liguagem Python, no qual busco aprofundamento. Utiliei em meus notebooks e nas dag's as seguintes bibliotecas:
 
-Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, datetime, date, timedelta, relativedelta, os, SqlAlchemy e airflow.
+Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy e Airflow.
