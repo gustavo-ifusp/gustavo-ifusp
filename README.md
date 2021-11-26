@@ -14,8 +14,8 @@ Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly,
 Gustavo de Andrade<br>
 Analista de Dados<br>
 gustavo@if.usp.br / gustavo.andrade@prefeitura.sp.gov.br<br>
-https://www.linkedin.com/in/gustavo-de-andrade-81030483/
-Currículo: https://docs.google.com/document/d/1pXpXBvFqs1oKbcRn5rJUXd0iNTrEH1wLjHlHHO0ONb0/edit?usp=sharing
+https://www.linkedin.com/in/gustavo-de-andrade-81030483/ <br>
+Currículo: <br> https://docs.google.com/document/d/1pXpXBvFqs1oKbcRn5rJUXd0iNTrEH1wLjHlHHO0ONb0/edit?usp=sharing
 <br>
 <br>
 Relatório IC em Análise de Dados do Moodle da USP:<br>
