@@ -25,5 +25,5 @@ Relatório Alumni: <br>
 https://docs.google.com/document/d/1F-FrZD3fP5aAi_xJ8w6jZ3plBB3BzNxCq_f__pBbEGQ/edit?usp=sharing
 <br>
 <br>
-Observação: No repositório **edisc-analytics** os notebook que iniciam em um número foi eu quem desenvolvi, os outros são do meu orientador de IC Ewout Ter Haar e meu colega de IC Eduardo Grecco.
+Observação: No repositório *edisc-analytics* os notebook que iniciam com a letra g foi eu quem desenvolvi, os com um número são do meu orientador de I.C. Ewout Ter Haar e os demais do meu colega de I.C. Eduardo Grecco.
 
