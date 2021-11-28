@@ -1,6 +1,6 @@
 Olá, estes são meus repositórios organizados! Todas as apresentações e dados são autorizados ou públicos em alguma base de dados.
 
-Sou entusiasta por ciências de dados, curso Bacharelado na USP no período noturno com projeção de titulação no final de 2022.
+Sou entusiasta por ciências de dados, curso Bacharelado em Física na USP no período noturno com projeção de titulação no final de 2022.
 
 Nesses repositórios, constam alguns dos meus notebook's em Python de análises e automações de processos, os quais estão organizados nos projetos para o Moodle da USP (https://edisciplinas.usp.br/), Alumni USP (http://www.alumni.usp.br/), de cunho educativo e avaliativo, e demandas da Prefeitura de São paulo — Secretaria de Inovação e Tecnologia, com a finalidade de contemplação para o DashBoard da CTD - Coordenadoria de Transformação Digital, o  SP360, projeto pelo qual estou adquirindo experiência como Analista de Dados comissionado para alimentar painéis que viabilizem políticas de datadriven, modelando dados, realizando scraping de dados e criando automação em ETL com Dags no AIRFLOW.
 
