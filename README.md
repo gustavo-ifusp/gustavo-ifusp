@@ -10,7 +10,7 @@ Utilizei em meus notebooks e nas dag's as seguintes bibliotecas:
 
 Pandas, Numpy, BeauifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy, Tabula e Airflow.
 
-Estou estudando agora PySpark.
+Atualmente estou desbravando PySpark.
 
 <br>
 Gustavo de Andrade<br>
