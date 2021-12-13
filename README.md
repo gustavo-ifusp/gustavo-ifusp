@@ -4,7 +4,7 @@ Sou entusiasta por ciências de dados, curso Bacharelado em Física na USP no pe
 
 Nesses repositórios, constam alguns dos meus notebook's em Python de análises e automações de processos, os quais estão organizados nos projetos para o Moodle da USP (https://edisciplinas.usp.br/), Alumni USP (http://www.alumni.usp.br/), de cunho educativo e avaliativo, e demandas da Prefeitura de São Paulo — Secretaria de Inovação e Tecnologia, com a finalidade de contemplação para o DashBoard da CTD - Coordenadoria de Transformação Digital, o  SP360, projeto pelo qual estou adquirindo experiência como Analista de Dados comissionado para alimentar painéis que viabilizem políticas de datadriven, modelando dados, realizando scraping de dados e criando automação/ETL, com Dags no AIRFLOW.
 
-Sou apaixonado pela linguagem Python, por Física Computacional, Estatística, Probabilidade e pelo viés de resoluções de problemas. De modo, que busco desenvolver automatização, organização e conexão de processos, e solucionar cases de BigData. 
+Sou apaixonado pela linguagem Python, por Física Computacional, Estatística, Probabilidade e pelo viés de resoluções de problemas. De modo, que busco desenvolver automação, organização e conexão de processos, e solucionar cases de BigData. 
 Estou em constante aprendizado, logo suas sugestões e críticas são bem-vindas, assim como uma possível troca de conhecimento.
 Utilizei em meus notebooks e nas dag's as seguintes bibliotecas:
 
