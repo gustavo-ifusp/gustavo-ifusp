@@ -8,7 +8,7 @@ Sou apaixonado pela linguagem Python, por Física Computacional, Estatística, P
 Estou em constante aprendizado, logo suas sugestões e críticas são bem-vindas, assim como uma possível troca de conhecimento.
 Utilizei em meus notebooks e nas dag's as seguintes bibliotecas:
 
-Pandas, Numpy, BeautifulSoup, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy, Tabula, Math, Turtle, OpenCV  e Airflow.
+Pandas, Numpy, Math, BeautifulSoup, Airflow, Requests, Re, Astropy, MatplotLib, SeaBorn, Plotly, Glob, ZipFile, Datetime, Date, Timedelta, Relativedelta, os, SqlAlchemy, Tabula, Turtle e OpenCV.
 
 Atualmente estou desbravando PySpark.
 
